@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Rec Fire
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project demonstartes the working a Chat GPT in raw manner with Chat GPT Completions API. You need to generate Chat Gpt Open API key and add to `.env.local` file The Google Firebase Authentication is also used in this project so you need to generate firebase keys as well and add it to .env.local file
+
+
+## Prequisites
+- Node version 16.17.0
+- Yarn version 1.22.19
+- Rename file `.env.example` to `.env.local` and then paste your **google firebase keys** and **OPNE_API_KEY** accordingly for each variable in the file.
 
 ## Available Scripts
 

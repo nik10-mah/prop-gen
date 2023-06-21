@@ -1,0 +1,84 @@
+// body {
+//   margin: 0;
+//   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+//     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+//     sans-serif;
+//   -webkit-font-smoothing: antialiased;
+//   -moz-osx-font-smoothing: grayscale;
+// }
+
+// code {
+//   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+//     monospace;
+// }
+
+$white: #ffffff;
+
+$theme-colors: (
+    "light":      #e3d9cf,
+    "dark":       #181416,
+    "primary":    #78074a,
+    "secondary":  #c941bb,
+    "info":       #0b82cd,
+    "success":    #049c6b,
+    "warning":    #d2ce04,
+    "danger":     #de3e01,
+);
+
+// $theme-colors: (
+//     "light":      #a8d3f4,
+//     "dark":       #22201e,
+//     "primary":    #294e70,
+//     "secondary":  #9e5b77,
+//     "info":       #dab595,
+//     "success":    #2faa65,
+//     "warning":    #e6cc2e,
+//     "danger":     #f41919,
+// );
+
+
+// $theme-colors: (
+//     "light":      #b2e8f5,
+//     "dark":       #000415,
+//     "primary":    #e2bdd0,
+//     "secondary":  #f84568,
+//     "info":       #3b77b3,
+//     "success":    #1cbc81,
+//     "warning":    #ddd618,
+//     "danger":     #ec410b,
+// );
+
+// $theme-colors: (
+//     "light":      #dfecf7,
+//     "dark":       #23242f,
+//     "primary":    #0f4455,
+//     "secondary":  #5f5c7f,
+//     "info":       #eecced,
+//     "success":    #18aa5a,
+//     "warning":    #e9cb18,
+//     "danger":     #f60a20,
+// );
+
+// $theme-colors: (
+//     "light":      #e4e4f6,
+//     "dark":       #1c1c1a,
+//     "primary":    #7705b3,
+//     "secondary":  #6d5ab0,
+//     "info":       #ceab91,
+//     "success":    #04a766,
+//     "warning":    #dfcd04,
+//     "danger":     #ee2a01,
+// );
+
+// $theme-colors: (
+//     "light":      #ffcecf,
+//     "dark":       #0e0609,
+//     "primary":    #35385a,
+//     "secondary":  #2655e3,
+//     "info":       #ff007b,
+//     "success":    #009858,
+//     "warning":    #dec800,
+//     "danger":     #eb1b00,
+// );
+
+@import "~bootstrap/scss/bootstrap";
